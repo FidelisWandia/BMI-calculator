@@ -1,0 +1,62 @@
+#container{
+    background: goldenrod;
+    width: 400px;
+    height: 530px;
+    margin: auto;
+    border-radius: 6px;
+}
+
+#container>*{
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+#btn{
+    padding: 10px;
+    background: greenyellow;
+    border:none;
+    margin-bottom: 5px;
+    margin-left: 37%;
+    margin-top: 7px;
+    color: royalblue;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+#weight{
+    padding: 10px;
+    outline:none
+}
+
+#height{
+    padding:10px;
+    outline:none;
+}
+
+#result{
+    margin-left: 35%;
+    color:blue;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
